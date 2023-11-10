@@ -10,14 +10,9 @@ body {
   margin: 0px;
   background-color: #9191918f;
   color: #0f141e;
-
   font-size: 16px;
   font-weight: normal;
   font-family: "Roboto", sans-serif;
-
-  /*font: normal 16px 'Roboto', sans-serif */
-
-  /*font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
 }
 
 .content-layout {
@@ -85,9 +80,6 @@ a:visited {
   font-style: italic;
   font-weight: bold;
   text-decoration: none;
-  /*text-transform: uppercase;*/
-  /*letter-spacing: 15px;*/
-  /*word-spacing: 42px;*/
 }
 
 /*Box model */
@@ -96,21 +88,6 @@ a:visited {
   margin: 0px;
   padding-top: 30px;
 }
-
-/*.social {
-  background: orange;
-  padding-top: 15px;
-  padding-right: 20px;
-  padding-bottom: 25px;
-  padding-left: 30px;
-  margin: 5px;
-
-  border: 10px solid cornsilk;
-  border-bottom-style: solid;
-  border-top-width: 10px;
-  border-right-color: darkgoldenrod;
-  border-left-color: darkgoldenrod;
-/* } */
 
 .message-container {
   margin-top: 0px;
@@ -246,26 +223,6 @@ table {
 .items-center {
   align-items: center;
 }
-
-/* Position */
-
-/* .position {
-  position: relative;
-  border: 4px solid black;
-  margin-top: 40px;
-  padding: 20px;
-  height: 300px;
-}
-
-.box {
-  position: fixed;
-  bottom: 50px;
-  right: 50px;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  background: darkgoldenrod;
-} */
 
 .custom-btn {
   width: 200px;
